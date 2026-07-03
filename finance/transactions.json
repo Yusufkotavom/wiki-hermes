@@ -78,7 +78,20 @@
       "updatedAt": "2026-07-03T23:20:00+07:00",
       "status": "active",
       "proof": null
+    },
+    {
+      "id": "T-20260703-6",
+      "type": "expense",
+      "amount": 1856000,
+      "currency": "IDR",
+      "wallet": "wallet-cash",
+      "category": "operasional",
+      "note": "TOKO CAKRAWALA: Kertas A4 75gr 50ls, cutter, isolasi. No.Struk #387810, 03-07-2026 19:30",
+      "createdAt": "2026-07-03T23:25:00+07:00",
+      "updatedAt": "2026-07-03T23:25:00+07:00",
+      "status": "active",
+      "proof": "finance/receipts/2026-07/kertas-cakrawala-03jul2026.jpg"
     }
   ],
-  "nextSeq": 6
+  "nextSeq": 7
 }

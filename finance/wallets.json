@@ -15,6 +15,14 @@
       "currency": "IDR",
       "openedAt": "2026-07-03",
       "note": "Dompet kedua"
+    },
+    {
+      "id": "wallet-cash",
+      "name": "Cash",
+      "type": "cash",
+      "currency": "IDR",
+      "openedAt": "2026-07-03",
+      "note": "Dompet tunai harian"
     }
   ]
 }
