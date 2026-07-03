@@ -3,14 +3,14 @@
     {
       "id": "T-20260628-1",
       "type": "income",
-      "amount": 70140000,
+      "amount": 70626000,
       "currency": "IDR",
       "wallet": "wallet-bri",
       "category": "project",
       "projectId": "proj-book-kotacom-2026",
       "note": "DP 60% project cetak buku Kotacom",
       "createdAt": "2026-06-28T10:00:00+07:00",
-      "updatedAt": "2026-06-28T10:00:00+07:00",
+      "updatedAt": "2026-07-03T23:15:00+07:00",
       "status": "active",
       "proof": "finance/receipts/2026-07/kotacom-dp-28jun2026.jpg"
     },

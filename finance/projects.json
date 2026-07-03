@@ -10,13 +10,13 @@
       "paymentTerms": "2 terms",
       "dpPercent": 60,
       "finalPercent": 40,
-      "dpAmount": 70140000,
-      "finalAmount": 46760000,
+      "dpAmount": 70626000,
+      "finalAmount": 46274000,
       "dpReceivedAt": "2026-06-28",
       "finalReceivedAt": null,
       "note": "Ref: 067/QC-28/6/2026, Receiving account: BRI 314101012464534 A/n Yusuf Bahtiyar",
       "createdAt": "2026-07-03T22:15:00+07:00",
-      "updatedAt": "2026-07-03T22:15:00+07:00"
+      "updatedAt": "2026-07-03T23:15:00+07:00"
     }
   ],
   "nextId": 2
