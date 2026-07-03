@@ -1,28 +1,20 @@
 {
   "wallets": [
     {
-      "id": "wallet-cash",
-      "name": "Cash",
-      "type": "cash",
-      "currency": "IDR",
-      "openedAt": "2026-07-01",
-      "note": "Dompet tunai harian"
-    },
-    {
-      "id": "wallet-bca",
-      "name": "BCA",
+      "id": "wallet-bri",
+      "name": "BRI",
       "type": "bank",
       "currency": "IDR",
-      "openedAt": "2026-07-01",
-      "note": "Rekening utama"
+      "openedAt": "2026-07-03",
+      "note": "Dompet utama"
     },
     {
-      "id": "wallet-vault",
-      "name": "Vault",
-      "type": "vault",
+      "id": "wallet-jago",
+      "name": "JAGO",
+      "type": "bank",
       "currency": "IDR",
-      "openedAt": "2026-07-01",
-      "note": "Tabungan terpisah"
+      "openedAt": "2026-07-03",
+      "note": "Dompet kedua"
     }
   ]
 }

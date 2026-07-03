@@ -1,4 +1,31 @@
 {
-  "transactions": [],
-  "nextSeq": 1
+  "transactions": [
+    {
+      "id": "T-20260703-1",
+      "type": "opening",
+      "amount": 60000,
+      "currency": "IDR",
+      "wallet": "wallet-bri",
+      "category": "opening",
+      "note": "Saldo awal BRI",
+      "createdAt": "2026-07-03T22:00:00+07:00",
+      "updatedAt": "2026-07-03T22:00:00+07:00",
+      "status": "active",
+      "proof": null
+    },
+    {
+      "id": "T-20260703-2",
+      "type": "opening",
+      "amount": 50000,
+      "currency": "IDR",
+      "wallet": "wallet-jago",
+      "category": "opening",
+      "note": "Saldo awal JAGO",
+      "createdAt": "2026-07-03T22:00:00+07:00",
+      "updatedAt": "2026-07-03T22:00:00+07:00",
+      "status": "active",
+      "proof": null
+    }
+  ],
+  "nextSeq": 3
 }
