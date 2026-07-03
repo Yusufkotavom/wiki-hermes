@@ -5,6 +5,11 @@
 
 ## Projects
 <!-- Alphabetical within section -->
+- devk-studio
+- sanity-clean
+
+## Finance
+- money-tracker: Personal finance tracker for expense, income, transfer, debt/loan tracking, and receipts/pelacakan bukti transaksi
 
 ## Concepts
 

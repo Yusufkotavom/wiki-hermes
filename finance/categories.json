@@ -1,0 +1,25 @@
+{
+  "income": [
+    {"id": "cat-income-project", "name": "project", "description": "Pendapatan dari project"},
+    {"id": "cat-income-retainer", "name": "retainer", "description": "Retainer/layanan bulanan"},
+    {"id": "cat-income-product", "name": "produk", "description": "Penjualan produk"},
+    {"id": "cat-income-investasi", "name": "investasi", "description": "Investasi/capital gain/bunga"},
+    {"id": "cat-income-hibah", "name": "hibah", "description": "Hibah/donasi"},
+    {"id": "cat-income-lainnya", "name": "lainnya", "description": "Pemasukan lainnya"}
+  ],
+  "expense": [
+    {"id": "cat-expense-gaji", "name": "gaji", "description": "Gaji/upah"},
+    {"id": "cat-expense-transport", "name": "transport", "description": "Transport"},
+    {"id": "cat-expense-makan", "name": "makan", "description": "Makan/minum"},
+    {"id": "cat-expense-utilities", "name": "utilities", "description": "Listrik/air/internet"},
+    {"id": "cat-expense-sewa", "name": "sewa", "description": "Sewa office/home"},
+    {"id": "cat-expense-pemasaran", "name": "pemasaran", "description": "Marketing/ads"},
+    {"id": "cat-expense-operasional", "name": "operasional", "description": "Operasional harian"},
+    {"id": "cat-expense-hardware", "name": "hardware", "description": "Perangkat keras"},
+    {"id": "cat-expense-software", "name": "software", "description": "SaaS/license/tools"},
+    {"id": "cat-expense-lainnya", "name": "lainnya", "description": "Pengeluaran lainnya"}
+  ],
+  "transfer": [],
+  "debt": [],
+  "repayment": []
+}

@@ -1,0 +1,28 @@
+{
+  "wallets": [
+    {
+      "id": "wallet-cash",
+      "name": "Cash",
+      "type": "cash",
+      "currency": "IDR",
+      "openedAt": "2026-07-01",
+      "note": "Dompet tunai harian"
+    },
+    {
+      "id": "wallet-bca",
+      "name": "BCA",
+      "type": "bank",
+      "currency": "IDR",
+      "openedAt": "2026-07-01",
+      "note": "Rekening utama"
+    },
+    {
+      "id": "wallet-vault",
+      "name": "Vault",
+      "type": "vault",
+      "currency": "IDR",
+      "openedAt": "2026-07-01",
+      "note": "Tabungan terpisah"
+    }
+  ]
+}
