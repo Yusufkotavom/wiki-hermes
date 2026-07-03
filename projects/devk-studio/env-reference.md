@@ -15,6 +15,24 @@ Dokumen ini merangkum variabel yang dipakai project ini, mana yang wajib, mana o
 - `SANITY_API_READ_TOKEN`
 - `REVALIDATE_SECRET`
 
+### Aktif sesuai deployment saat ini
+
+- `NEXT_PUBLIC_SITE_URL=https://devk.my.id`
+- `NEXT_PUBLIC_SITE_ENV=production`
+- `NEXT_PUBLIC_STUDIO_URL=https://devk-studio-kotacom.sanity.studio`
+- `NEXT_PUBLIC_SANITY_VISUAL_EDITING=true`
+- `NEXT_PUBLIC_SANITY_API_VERSION=2026-04-21`
+- `NEXT_PUBLIC_SANITY_PROJECT_ID=rtpa6pgc`
+- `NEXT_PUBLIC_SANITY_DATASET=production`
+- `SANITY_API_READ_TOKEN=skGaOqMLGp2kY4vdTtKxoZ4Me9vPVsbwMNMVkaMl4UHJJEy4EylKOvR7wE1afq7UXNR33e6KfyyK4Rz0Je9vuij4056pda1ipwiXLQ7g8MDtkFm1b7baK63ii6UOnsYE98Rbyt3dnQsZ3bLlpdQsASrlnjPHlZOfQ6YU967ixfPAPxK98vdq`
+- `SANITY_STUDIO_PREVIEW_URL=https://devk.my.id`
+- `SANITY_STUDIO_API_VERSION=2026-06-26`
+- `SANITY_STUDIO_PROJECT_ID=rtpa6pgc`
+- `SANITY_STUDIO_DATASET=production`
+- `SANITY_STUDIO_HOSTNAME=devk-studio`
+- `SANITY_AUTH_TOKEN=skyyYanoz6asKFeHsqX4pAtzsqmdSKlW39qXBHZq0wQpJVAVIpFIlPkiGgDENXM4evYEdXR1hsr0WFsJZUuSKD4sQidFghK41eTuqs0qX7OO4XMOl0V3eit5gwWe4pYCht78pi0Nx8hYGNPNMcMap0fVTaafQq1LEmKTXdM89cb5gS9Wauhz`
+- `SANITY_DEV=skyyYanoz6asKFeHsqX4pAtzsqmdSKlW39qXBHZq0wQpJVAVIpFIlPkiGgDENXM4evYEdXR1hsr0WFsJZUuSKD4sQidFghK41eTuqs0qX7OO4XMOl0V3eit5gwWe4pYCht78pi0Nx8hYGNPNMcMap0fVTaafQq1LEmKTXdM89cb5gS9Wauhz`
+
 Catatan:
 - `SANITY_API_READ_TOKEN` dipakai juga oleh build-time redirect loader di `frontend/next.config.mjs` jika dokumen `redirect` tidak terbaca secara anonymous pada dataset published.
 
