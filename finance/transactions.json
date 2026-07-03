@@ -117,7 +117,20 @@
       "updatedAt": "2026-07-03T23:30:00+07:00",
       "status": "active",
       "proof": null
+    },
+    {
+      "id": "T-20260703-10",
+      "type": "income",
+      "amount": 2100000,
+      "currency": "IDR",
+      "wallet": "wallet-jago",
+      "category": "transfer",
+      "note": "Transfer dari BRI",
+      "createdAt": "2026-07-03T23:30:00+07:00",
+      "updatedAt": "2026-07-03T23:30:00+07:00",
+      "status": "active",
+      "proof": null
     }
   ],
-  "nextSeq": 10
+  "nextSeq": 11
 }
