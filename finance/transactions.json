@@ -39,7 +39,46 @@
       "updatedAt": "2026-07-03T22:00:00+07:00",
       "status": "active",
       "proof": null
+    },
+    {
+      "id": "T-20260703-3",
+      "type": "expense",
+      "amount": 2050000,
+      "currency": "IDR",
+      "wallet": "wallet-bri",
+      "category": "sewa",
+      "note": "Cicilan rumah Juli 2026",
+      "createdAt": "2026-07-03T23:20:00+07:00",
+      "updatedAt": "2026-07-03T23:20:00+07:00",
+      "status": "active",
+      "proof": null
+    },
+    {
+      "id": "T-20260703-4",
+      "type": "transfer",
+      "amount": 2100000,
+      "currency": "IDR",
+      "wallet": "wallet-bri",
+      "category": "transfer",
+      "note": "Transfer ke JAGO",
+      "createdAt": "2026-07-03T23:20:00+07:00",
+      "updatedAt": "2026-07-03T23:20:00+07:00",
+      "status": "active",
+      "proof": null
+    },
+    {
+      "id": "T-20260703-5",
+      "type": "expense",
+      "amount": 750000,
+      "currency": "IDR",
+      "wallet": "wallet-jago",
+      "category": "operasional",
+      "note": "Tinta printer: 1L hitam, 500ml yellow/red/blue",
+      "createdAt": "2026-07-03T23:20:00+07:00",
+      "updatedAt": "2026-07-03T23:20:00+07:00",
+      "status": "active",
+      "proof": null
     }
   ],
-  "nextSeq": 3
+  "nextSeq": 6
 }
