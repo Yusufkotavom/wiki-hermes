@@ -130,7 +130,20 @@
       "updatedAt": "2026-07-03T23:30:00+07:00",
       "status": "active",
       "proof": null
+    },
+    {
+      "id": "T-20260703-11",
+      "type": "expense",
+      "amount": 717045,
+      "currency": "IDR",
+      "wallet": "wallet-bri",
+      "category": "utilities",
+      "note": "Bayar kartu kredit Honest Card",
+      "createdAt": "2026-07-03T23:35:00+07:00",
+      "updatedAt": "2026-07-03T23:35:00+07:00",
+      "status": "active",
+      "proof": null
     }
   ],
-  "nextSeq": 11
+  "nextSeq": 12
 }
