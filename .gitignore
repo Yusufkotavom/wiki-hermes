@@ -11,3 +11,6 @@ desktop.ini
 
 # Large binary/assets if desired
 # raw/assets/*
+
+# sync helper
+.scripts/
