@@ -71,7 +71,7 @@
       "type": "expense",
       "amount": 750000,
       "currency": "IDR",
-      "wallet": "wallet-jago",
+      "wallet": "wallet-bri",
       "category": "operasional",
       "note": "Tinta printer: 1L hitam, 500ml yellow/red/blue",
       "createdAt": "2026-07-03T23:20:00+07:00",
