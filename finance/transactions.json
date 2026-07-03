@@ -91,7 +91,33 @@
       "updatedAt": "2026-07-03T23:25:00+07:00",
       "status": "active",
       "proof": "finance/receipts/2026-07/kertas-cakrawala-03jul2026.jpg"
+    },
+    {
+      "id": "T-20260703-8",
+      "type": "expense",
+      "amount": 100000,
+      "currency": "IDR",
+      "wallet": "wallet-bri",
+      "category": "transfer",
+      "note": "Transfer ke saudara Sobirin",
+      "createdAt": "2026-07-03T23:30:00+07:00",
+      "updatedAt": "2026-07-03T23:30:00+07:00",
+      "status": "active",
+      "proof": null
+    },
+    {
+      "id": "T-20260703-9",
+      "type": "expense",
+      "amount": 49300,
+      "currency": "IDR",
+      "wallet": "wallet-bri",
+      "category": "operasional",
+      "note": "Belanja Indomaret",
+      "createdAt": "2026-07-03T23:30:00+07:00",
+      "updatedAt": "2026-07-03T23:30:00+07:00",
+      "status": "active",
+      "proof": null
     }
   ],
-  "nextSeq": 7
+  "nextSeq": 10
 }
