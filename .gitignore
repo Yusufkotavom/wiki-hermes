@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/
+.trash/
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# OS
+desktop.ini
+
+# Large binary/assets if desired
+# raw/assets/*
