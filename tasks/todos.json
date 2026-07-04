@@ -1,0 +1,78 @@
+{
+  "todos": [
+    {
+      "id": "todo-kotacom-dp-1",
+      "title": "Terima dan rekam DP project cetak buku Kotacom",
+      "status": "done",
+      "priority": "high",
+      "project": "book-kotacom-2026",
+      "createdAt": "2026-07-03T22:00:00+07:00",
+      "completedAt": "2026-07-03T22:15:00+07:00"
+    },
+    {
+      "id": "todo-kotacom-final-1",
+      "title": "Terima pembayaran final 40% project Kotacom",
+      "status": "pending",
+      "priority": "high",
+      "project": "book-kotacom-2026",
+      "due": "2026-09-30",
+      "createdAt": "2026-07-03T22:00:00+07:00",
+      "completedAt": null
+    },
+    {
+      "id": "todo-kotacom-pay-1",
+      "title": "Bayar cicilan rumah Juli 2026",
+      "status": "done",
+      "priority": "high",
+      "project": "personal",
+      "createdAt": "2026-07-03T23:00:00+07:00",
+      "completedAt": "2026-07-03T23:20:00+07:00"
+    },
+    {
+      "id": "todo-kotacom-ink-1",
+      "title": "Beli tinta printer",
+      "status": "done",
+      "priority": "medium",
+      "project": "personal",
+      "createdAt": "2026-07-03T22:00:00+07:00",
+      "completedAt": "2026-07-03T23:25:00+07:00"
+    },
+    {
+      "id": "todo-kotacom-supplies-1",
+      "title": "Beli kertas A4, cutter, isolasi",
+      "status": "done",
+      "priority": "medium",
+      "project": "personal",
+      "createdAt": "2026-07-03T22:00:00+07:00",
+      "completedAt": "2026-07-03T23:25:00+07:00"
+    },
+    {
+      "id": "todo-kotacom-sobirin-1",
+      "title": "Transfer ke saudara Sobirin 100.000",
+      "status": "done",
+      "priority": "low",
+      "project": "personal",
+      "createdAt": "2026-07-03T23:00:00+07:00",
+      "completedAt": "2026-07-03T23:30:00+07:00"
+    },
+    {
+      "id": "todo-kotacom-cc-1",
+      "title": "Bayar kartu kredit Honest Card 717.045",
+      "status": "done",
+      "priority": "high",
+      "project": "personal",
+      "createdAt": "2026-07-03T23:00:00+07:00",
+      "completedAt": "2026-07-03T23:35:00+07:00"
+    },
+    {
+      "id": "todo-kotacom-transfer-1",
+      "title": "Transfer dari BRI ke JAGO 2.100.000",
+      "status": "done",
+      "priority": "medium",
+      "project": "personal",
+      "createdAt": "2026-07-03T23:00:00+07:00",
+      "completedAt": "2026-07-03T23:30:00+07:00"
+    }
+  ],
+  "nextId": 9
+}
